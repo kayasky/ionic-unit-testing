@@ -5,6 +5,6 @@ Based on Ionic's unit testing [repo](https://github.com/driftyco/ionic-unit-test
 [Test config files](/tree/unit-tests/test-config)
 
 ## Few sample tests:
-[MyApp Component ](/blob/unit-tests/src/app/app.component.spec.ts)
+[MyApp Component](/src/app/app.component.spec.ts)
 
-[HomePage Component ](/blob/unit-tests/src/pages/home/home.spec.ts)
+[HomePage Component](/src/pages/home/home.spec.ts)
